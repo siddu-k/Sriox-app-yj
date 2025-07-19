@@ -17,7 +17,13 @@ SRIOX is a developer-focused platform that allows anyone to deploy their persona
 - 🎨 Modern UI with intuitive flow (inspired by self.so)
 
 ---
+<a href="https://ibb.co/zTkzzw9s">
+  <img src="https://i.ibb.co/zTkzzw9s/Screenshot-20250720-001928.jpg" alt="Dashboard Screenshot" width="400" />
+</a>
 
+<a href="https://ibb.co/Q7ZGNM0L">
+  <img src="https://i.ibb.co/Q7ZGNM0L/Screenshot-20250720-002011.jpg" alt="Upload Page Screenshot" width="400" />
+</a>
 ## 🛠️ Tech Stack
 
 - **Frontend**: Next.js, Tailwind CSS, shadcn/ui
