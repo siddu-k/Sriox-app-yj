@@ -76,16 +76,6 @@ App will start at http://localhost:3000.
 
 Upload a ZIP or HTML on sriox.com to test the real-time flow and see your site live instantly!
 
-
----
-
-📸 Screenshots
-
-
-
-
-
-
 ---
 
 👨‍💻 Authors
