@@ -134,12 +134,3 @@ CLOUDFLARE_API_KEY=xxxx
 npm run dev
 
 Visit http://localhost:3000 to get started.
-
----
-
-Would you like:
-- A **PDF version** of this as your report?
-- Some **screenshots** or a demo **slide deck**?
-- A **short video script** to explain your project?
-
-Let me know — I’ll help complete everything before the deadline.
