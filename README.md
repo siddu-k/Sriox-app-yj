@@ -3,6 +3,10 @@
 
 **Live Demo**: 🌐 [https://sriox.com](https://sriox.com)
 
+## License
+
+This project is licensed under the [MIT License](./LICENSE) © 2025 Sri Datta Sidhardha Kondeti.
+
 SRIOX is a developer-focused platform that allows anyone to deploy their personal or static websites in seconds — using only a ZIP or HTML file. It handles everything from storage to publishing via GitHub and custom subdomain management, so users can focus on content, not infrastructure.
 
 ---
