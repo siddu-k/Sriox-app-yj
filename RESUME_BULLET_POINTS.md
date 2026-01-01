@@ -66,8 +66,8 @@
 - **Lucide React** for consistent iconography
 
 ### Backend Technologies:
-- **Next.js runtime** with API routes and server-side processing
-- **Supabase** for PostgreSQL database and authentication (Auth with OAuth support)
+- **Next.js API routes** with server-side processing
+- **Supabase** for PostgreSQL database and authentication with OAuth support
 - **GitHub REST API** for repository management and file operations
 - **Cloudflare API** for DNS management and subdomain configuration
 
