@@ -4,7 +4,7 @@
 
 ### Concise Version (For Resume Summary):
 - **Developed SRIOX**, a full-stack web deployment platform enabling users to deploy static websites in seconds with automated GitHub integration and custom subdomain management
-- **Built with Next.js 15, TypeScript, and Supabase**, implementing serverless architecture with Firebase authentication and Cloudflare DNS API integration
+- **Built with Next.js 15, TypeScript, and Supabase**, implementing serverless architecture with Supabase authentication and Cloudflare DNS API integration
 - **Automated DevOps pipeline** leveraging GitHub API for repository creation, GitHub Pages for hosting, and Cloudflare for DNS configuration
 
 ---
@@ -20,7 +20,7 @@
 ### Backend & Database:
 - Designed and implemented **Supabase PostgreSQL database schema** with Row Level Security (RLS) policies for multi-tenant data isolation and secure user access control
 - Created comprehensive database structure with **foreign key relationships, indexes, and triggers** for automatic timestamp management and data integrity
-- Implemented **authentication system** using **Supabase Auth** with support for Google OAuth and email/password sign-in, including session management and protected routes
+- Implemented **authentication system** using **Supabase Auth** with support for email/password sign-in and OAuth providers, including session management and protected routes
 - Built **server-side middleware** for authentication verification and route protection using Next.js middleware patterns
 
 ### DevOps & Cloud Integration:
@@ -30,7 +30,7 @@
 - Built **error handling and rollback mechanisms** to cleanup external resources (GitHub repos, DNS records) when deployment steps fail
 
 ### API Development:
-- Created **6+ RESTful API routes** including file upload, project CRUD operations, file management, and HTTPS configuration endpoints
+- Created **multiple RESTful API routes** including file upload, project CRUD operations, file management, and HTTPS configuration endpoints
 - Implemented **file processing pipeline** to handle ZIP extraction, HTML validation, and multi-file uploads with content type detection and size validation
 - Developed **GitHub file synchronization** using SHA-based version tracking to enable file updates and maintain consistency between database and repository
 - Built **secure API endpoints** with authentication middleware, input validation, and comprehensive error handling with detailed logging
@@ -67,8 +67,7 @@
 
 ### Backend Technologies:
 - **Node.js** runtime with Next.js API routes
-- **Supabase** for PostgreSQL database and authentication
-- **Firebase Auth** for Google OAuth and email authentication
+- **Supabase** for PostgreSQL database and authentication (Auth with OAuth support)
 - **GitHub REST API** for repository management and file operations
 - **Cloudflare API** for DNS management and subdomain configuration
 
