@@ -66,7 +66,7 @@
 - **Lucide React** for consistent iconography
 
 ### Backend Technologies:
-- **Node.js** runtime with Next.js API routes
+- **Next.js runtime** with API routes and server-side processing
 - **Supabase** for PostgreSQL database and authentication (Auth with OAuth support)
 - **GitHub REST API** for repository management and file operations
 - **Cloudflare API** for DNS management and subdomain configuration
@@ -121,7 +121,7 @@
 - Modern UI/UX with Tailwind CSS and component libraries
 
 ### For "Experience" Section (If Personal Project):
-**SRIOX Platform - Personal Project** | Dec 2024 - Present
+**SRIOX Platform - Personal Project** | [Project Timeline]
 - Architected and developed a full-stack web deployment SaaS platform using Next.js, TypeScript, and Supabase
 - Implemented automated deployment pipeline integrating GitHub API for repository management and Cloudflare API for DNS configuration
 - Built secure multi-tenant application with authentication, database RLS policies, and comprehensive error handling
